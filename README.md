@@ -26,12 +26,12 @@ above alpha range.
 ## Plots ##
 
 ![nb1](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb1.PNG)
-![nb2](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb2.PNG)
-![nb3](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb3.PNG)
-![nb4](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb4.PNG)
 
 ## Summary Table ##
 
+![nb2](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb2.PNG)
+![nb3](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb3.PNG)
+![nb4](https://github.com/AdroitAnandAI/NaiveBayes/blob/master/Images/nb4.PNG)
 
 ## Observations ##
 1. F1 Score of "Count based BoW with Multinomial NB" is slightly higher than "Binary BoW with Bernoulli NB" method. This indicates the loss of information when the count vector is made binary.
